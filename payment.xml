@@ -1,0 +1,15 @@
+<Document>
+  <CstmrCdtTrfInitn>
+    <PmtInf>
+      <Dbtr>
+        <Nm>PLBANK1XXX</Nm>
+      </Dbtr>
+      <Cdtr>
+        <Nm>UKBANK1XXX</Nm>
+      </Cdtr>
+      <Amt>
+        <InstdAmt Ccy="PLN">100.00</InstdAmt>
+      </Amt>
+    </PmtInf>
+  </CstmrCdtTrfInitn>
+</Document>

@@ -1,0 +1,2 @@
+2026-04-30 20:56:29.142386 - PLBANK1XXX -> UKBANK1XXX | 100.00 PLN
+2026-04-30 20:56:31.204331 - Forwarded to http://localhost:3003/receive | status 200
